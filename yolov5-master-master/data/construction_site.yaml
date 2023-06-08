@@ -1,0 +1,5 @@
+train: data/construction_site/images
+val: data/construction_site/images
+
+nc: 6
+names: ['SAFE', 'NO_MASK', 'NO_HELMET', 'NOT_SAFE','FIRE','UNCONCIOUS']
